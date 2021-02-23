@@ -2,6 +2,8 @@
 *.d
 
 # Compiled Object files
+cmake-build-debug
+.idea
 *.slo
 *.lo
 *.o
